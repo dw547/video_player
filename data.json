@@ -1,0 +1,2464 @@
+{
+  "providerName": "Hosttec Solutions",
+  "language": "en-US",
+  "lastUpdated": "2017-02-07T18:12:32.125Z",
+  "tvSpecials": [
+    {
+      "id": "b001",
+      "title": "Encontrado carro de brasileira desaparecida em Danbury",
+      "shortDescription": "Encontrado carro de brasileira desaparecida em Danbury",
+      "thumbnail": "https://i.vimeocdn.com/video/808459619-54c3f83480f545dbc00fcbeb24dea441676e95aa423a69f590e0705c6a66c3bc-d_800x450.png",
+      "releaseDate": "2019-08-23T15:42:59-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 109,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355617497.sd.mp4?s=de73776a5926473b1f0c454e78b2eb3948cd68ab&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1275129
+          }
+        ]
+      }
+    },
+    {
+      "id": "b002",
+      "title": "Pão de queijo Forno de Minas",
+      "shortDescription": "Pão de queijo Forno de Minas",
+      "thumbnail": "https://i.vimeocdn.com/video/808459718-b95e95991c4b796a3f0f7e7b830a01499c0c29cdef18f78d7fd303a4cb4e5561-d_800x450.png",
+      "releaseDate": "2019-08-23T15:43:34-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 30,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355617621.hd.mp4?s=06d5b9de07c497f9017e99f0b7623347099235cb&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2041772
+          }
+        ]
+      }
+    },
+    {
+      "id": "b003",
+      "title": "Vitor Belfort",
+      "shortDescription": "Vitor Belfort, legenda brasileira do MMA, prepara-se para voltar ao octógono em janeiro de 2018 contra o americano Uriah Hall e fala com exclusividade ao AcheiUSA sobre a vida e a carreira de lutador, direto de sua academia em Coconut Creek, na Flórida.",
+      "thumbnail": "https://i.vimeocdn.com/video/808460318-9b5582a5cd8fbc91aa7ef45a215c571ccb4984c695ad87b3f645f1c579f31896-d_800x450.png",
+      "releaseDate": "2019-08-23T15:43:55-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 550,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355617673.hd.mp4?s=812ab5db9effef7c64b365024d4191cc2776068e&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1492111
+          }
+        ]
+      }
+    },
+    {
+      "id": "b004",
+      "title": "AcheiTV",
+      "shortDescription": "Uma TV direcionada a comunidade brasileira",
+      "thumbnail": "https://i.vimeocdn.com/video/808460472-ca7da7c15eb822286e45aefbbe9330fac18e822e2addfbcb1066c990f2d67007-d_800x450.png",
+      "releaseDate": "2019-08-23T15:46:29-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 120,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355618127.hd.mp4?s=a8269a0c23e577c19d2053df4f25fd5026fe2290&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2080615
+          }
+        ]
+      }
+    },
+    {
+      "id": "b005",
+      "title": "AcheiTV, um oferecimento de AeroJuice",
+      "shortDescription": "Uma TV direcionada a comunidade brasileira",
+      "thumbnail": "https://i.vimeocdn.com/video/808460536-c9fbcb4adb4baf25abcbe1544a59dda26b2b694a88d9f3495cf7b86bd9d3e10f-d_800x450.png",
+      "releaseDate": "2019-08-23T15:47:09-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 36,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355618231.hd.mp4?s=00c0c9e1915b2bc8b6bc731b3299f7e6f987d002&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2471462
+          }
+        ]
+      }
+    },
+    {
+      "id": "b006",
+      "title": "ShopCarTV",
+      "shortDescription": "ShopCarTV",
+      "thumbnail": "https://i.vimeocdn.com/video/808460572-e6d372f499dca6b209bf23f9bef3d18b48dddc1902c077af69167febe464d501-d_800x450.png",
+      "releaseDate": "2019-08-23T15:47:26-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 25,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355618283.hd.mp4?s=8dff505af1323cccf9f9da0c45e22432953c305a&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2634479
+          }
+        ]
+      }
+    },
+    {
+      "id": "b007",
+      "title": "ShopcarTV01",
+      "shortDescription": "ShopCarTV",
+      "thumbnail": "https://i.vimeocdn.com/video/808463247-e889260b272c5d6ad4e6b6a3256bd1748dbf3e223aa9c6c4592fc5b219d2c2ad-d_800x450.png",
+      "releaseDate": "2019-08-23T15:47:40-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 1491,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355618332.hd.mp4?s=fe6657879b5b395077cdd43dea53e306da385f33&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2972035
+          }
+        ]
+      }
+    },
+    {
+      "id": "b008",
+      "title": "Ladrões invadem revendedora de carros em Pompano Beach",
+      "shortDescription": "Ladrões invadem revendedora de carros em Pompano Beach",
+      "thumbnail": "https://i.vimeocdn.com/video/808463266-e7654dbb5ebbf15eee0c3eb3edb34ab0c64111f7da5b75a4cfd776f1bd5d689c-d_800x450.png",
+      "releaseDate": "2019-08-23T15:58:41-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 31,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355620287.sd.mp4?s=846a9a115c2b8547900487c3ee89303714d9e3ab&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1363606
+          }
+        ]
+      }
+    },
+    {
+      "id": "b009",
+      "title": "AcheiUSA no Globo Notícia Américas",
+      "shortDescription": "AcheiUSA no Globo Notícia Américas",
+      "thumbnail": "https://i.vimeocdn.com/video/808463408-b5aececb4f4ea5e04c7c0d22f9cbc057127e9915e6cb591bc3fe104749472b8f-d_800x450.png",
+      "releaseDate": "2019-08-23T15:58:51-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 94,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355620319.hd.mp4?s=fb83293e07b1d6abdec9849a53a000b13d458e6b&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1975537
+          }
+        ]
+      }
+    },
+    {
+      "id": "b010",
+      "title": "Trinta e Oito anos de Pelada Dez",
+      "shortDescription": "Um grupo de brasileiros nos Estados Unidos se reúne há 38 anos para jogar futebol, fazer churrasco e curtir um pagode raiz. É a famosa Pelada Dez, que acontece todo domingo em um parque de Pompano Beach, na Flórida. A repórter Ana Paula Franco esteve lá e conta tudo para você.",
+      "thumbnail": "https://i.vimeocdn.com/video/808464026-2986a786b40b760bc85f41f6669a7839df63620d10344eae8996a048f5c76556-d_800x450.png",
+      "releaseDate": "2019-08-23T15:59:20-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 227,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355620433.hd.mp4?s=1c4f3cddf5144eeed474841f2735105ed4e6a18e&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2871663
+          }
+        ]
+      }
+    },
+    {
+      "id": "b011",
+      "title": "AcheiUSA no Globo Notícia Américas - 03/25/2018",
+      "shortDescription": "AcheiUSA no Globo Notícia Américas - 03/25/2018",
+      "thumbnail": "https://i.vimeocdn.com/video/808464082-9539e3c98b85df2ac0269d846c35d6975ff0cc8d9afe78ce8045c440ac318bd7-d_800x450.png",
+      "releaseDate": "2019-08-23T16:01:20-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 54,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355620777.hd.mp4?s=e813ca152d5e245993f5d9251daa2a4c8628fe21&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1686070
+          }
+        ]
+      }
+    },
+    {
+      "id": "b012",
+      "title": "Informações sobre o novo serviço de agendamento do Consulado Geral do Brasil em Miami",
+      "shortDescription": "Informações sobre o novo serviço de agendamento do Consulado Geral do Brasil em Miami",
+      "thumbnail": "https://i.vimeocdn.com/video/808464196-3b9fd11d793bd42942c7d9ead2b6f17ae9b378c866b4b7c41050f8f7f431e352-d_800x450.png",
+      "releaseDate": "2019-08-23T16:01:38-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 95,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355620826.hd.mp4?s=6ce3e324c7ecb2e463f62f889186dafdee409bb1&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1908952
+          }
+        ]
+      }
+    },
+    {
+      "id": "b013",
+      "title": "Entrevista com Dr. Décio Carvalho, cirurgião plástico na Flórida",
+      "shortDescription": "A repórter Suzanna Alcantara conversa com o Dr. Decio Carvalho em seu consultório na Flórida sobre os recursos mais modernos da cirurgia plástica e estética. Assista ao vídeo.",
+      "thumbnail": "https://i.vimeocdn.com/video/808464698-3c3fbc7c1be9842987d61bc0b2f789d306743e93877f202c0dac0595723c2b6a-d_800x450.png",
+      "releaseDate": "2019-08-23T16:02:06-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 423,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355620911.hd.mp4?s=be7e3ce7e850609eab50ba0ec763445903091c80&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2204582
+          }
+        ]
+      }
+    },
+    {
+      "id": "b014",
+      "title": "Torcida brasileira dá show de animação no Sul da Flórida",
+      "shortDescription": "Torcida brasileira dá show de animação no Sul da Flórida",
+      "thumbnail": "https://i.vimeocdn.com/video/808465091-ca81442c43de78c616f3db11cb8754c8824dd548cdd56c3549c54c9d75810f69-d_800x450.png",
+      "releaseDate": "2019-08-23T16:04:13-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 226,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355621309.hd.mp4?s=aaa0d49f17084da41ea88db1b5e8c54131d92cbb&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2814393
+          }
+        ]
+      }
+    },
+    {
+      "id": "b015",
+      "title": "Crianças de Miami visitam Minas Gerais",
+      "shortDescription": "A repórter Ana Paula Franco conta como foi a viagem dos alunos de uma escola bilíngue de Miami para Minas Gerais",
+      "thumbnail": "https://i.vimeocdn.com/video/808465531-d4ffc6e9a05a5229635510de57017f18b683a7d03aea59707a07dbaa9a9215f5-d_800x450.png",
+      "releaseDate": "2019-08-23T16:05:48-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 274,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355621617.hd.mp4?s=eb147f763eddb1ff85806f59c5b02cfcacf013f1&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2529163
+          }
+        ]
+      }
+    },
+    {
+      "id": "b016",
+      "title": "Aumenta o número de estudantes brasileiros em universidades americanas",
+      "shortDescription": "Aumenta o número de estudantes brasileiros em universidades americanas",
+      "thumbnail": "https://i.vimeocdn.com/video/808465653-44effcc95777f075ccfbc4b15a180a3858f5b52f929eeede3806d5c9e49a7ef6-d_800x450.png",
+      "releaseDate": "2019-08-23T16:07:32-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 76,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355621977.hd.mp4?s=5841c5086e2395c996f7c7ff9ae8f19a191d3c5c&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2323888
+          }
+        ]
+      }
+    },
+    {
+      "id": "b017",
+      "title": "Torcida pela Seleção em Miami",
+      "shortDescription": "Suzanna Alcântara foi conferir a torcida pela Seleção no Boteco, em North Miami, e no Bar da Vila, em Downtown Miami. Sexta-feira, ela vai estar novamente por aí, acompanhando a torcida brazuca pelo hexa.",
+      "thumbnail": "https://i.vimeocdn.com/video/808465961-c9e66cf98abcbea23d6fb9386b37bbfee818be7207c223ad4233ec509ba2438c-d_800x450.png",
+      "releaseDate": "2019-08-23T16:08:02-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 153,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355622045.hd.mp4?s=01fd92941a9263a0356a1a8d315b89caa623de68&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2839432
+          }
+        ]
+      }
+    },
+    {
+      "id": "b018",
+      "title": "Brasil e Bélgica em Boca",
+      "shortDescription": "Não deu pro Brasil. Suzanna Alcântara acompanhou o sofrimento dos brasileiros de Boca Raton durante a partida que acabou com o sonho do Hexa. Confira.",
+      "thumbnail": "https://i.vimeocdn.com/video/808466345-11e40468ab420b04ca35a0f834d52bdc3c3bd87858ee9fbf060aa59cf72bbafa-d_800x450.png",
+      "releaseDate": "2019-08-23T16:09:19-04:00",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2019-08-23T19:04:45-04:00",
+        "duration": 200,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/355622298.hd.mp4?s=928b1a4b9f76be5d2b40a55e2ffd57f57e7644f7&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2759157
+          }
+        ]
+      }
+    },
+    {
+      "id": "c001",
+      "title": "Fabiana Miranda entrevista Luis Miranda",
+      "shortDescription": "Fabiana Miranda entrevista o polêmico empresário brasileiro radicado nos Estados Unidos, Luis Miranda, para a Rádio Achei",
+      "name": "achei",
+      "role": "Speaker",
+      "thumbnail": "https://i.vimeocdn.com/video/807418493-b35ffc54d1efcf12872b2a6a44e58ee23e18f626f0367063c940f76c4fd6ddbc-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:00:00.431Z",
+        "captions": [],
+        "duration": 6050,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354798701.sd.mp4?s=1e9c31adf1ca722bcd81ee4d0c11da7f2e853ee3",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "title": "Ludo Gardini esclarece dúvidas de imigração",
+      "shortDescription": "O advogado de imigração Ludo Gardini responde ao vivo às dúvidas de imigração dos ouvintes da Rádio Achei",
+      "thumbnail": "https://i.vimeocdn.com/video/807419512-d2a9dcc39db24e313e0b9e0884c5f4f45c314b5b0d74e736d3704f13bcf8b743-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 6340,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354800571.sd.mp4?s=537f8ad233e51a002a560561ef3275358258dcc6",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c003",
+      "title": "AcheiUSA de Cara Nova",
+      "shortDescription": "AcheiUSA de Cara Nova",
+      "thumbnail": "https://i.vimeocdn.com/video/807419535-7a96c1534443f95eb18a17060aca1938365a9b8dbb12b92b030419e3089b2505-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 47,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354801373.hd.mp4?s=ea59d2bc9ff7b8f9e3c9f95d677e0e8603660e83",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c004",
+      "title": "Cônsul adjunto Leonardo Rabêlo fala como serão as eleições do BR na Flórida",
+      "shortDescription": "Cônsul adjunto Leonardo Rabêlo fala como serão as eleições do BR na Flórida",
+      "thumbnail": "https://i.vimeocdn.com/video/807419602-e763744ff8e8968a45a9bed64e4e22b0c778cc2c8e6c18639da978f61d19782b-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 138,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354801398.hd.mp4?s=75777d3438fe0af4a259c5bab6d2f4191faa793d",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c005",
+      "title": "Brasileiros votam em Miami",
+      "shortDescription": "A  repórter Cíntia Lima acompanhou a votação em Miami, colégio eleitoral no Exterior com mais de 34 mil eleitores inscritos. Brasileiros compareceram e fizeram a festa da Democracia.",
+      "thumbnail": "https://i.vimeocdn.com/video/807419878-56f1c2427d99435dbd5d4aa313f09ceee55e3b4b8dfcbd8056a889b4b0128a44-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 289,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354801467.hd.mp4?s=45825dac8a8a6d06cc9fc136c0e5bc656bdaed98",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c006",
+      "title": "Nova Dental, excelência em Odontologia",
+      "shortDescription": "Cintia Lima visitou o consultório do cirurgião-dentista Santiago Roldan, que falou sobre as mais modernas técnicas de tratamento dentário indolor. Roldan, formado no Brasil, Chile e Estados Unidos, é um dos mais renomados e premiados profissionais do estado da Flórida.",
+      "thumbnail": "https://i.vimeocdn.com/video/807420102-ffb8ea3e2467b794634d52ae0cc5c613263b176d18e94da60450d139dcecd67e-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 334,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354801679.hd.mp4?s=ac5b9fe87529e8d272a4a88fbc9f41ef72869f0b",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c007",
+      "title": "AcheiTV no segundo turno das eleições em Miami neste domingo (28)",
+      "shortDescription": "AcheiTV no segundo turno das eleições em Miami neste domingo (28)",
+      "thumbnail": "https://i.vimeocdn.com/video/807420464-3610bc92c00713bca5bd19ccc4c0fc0aa03b12e3834c63dbebffc0d7df6566eb-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 334,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354801843.hd.mp4?s=97a1bc88065b5d620c979749c4cc4d3310502c7e",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c008",
+      "title": "Miami ganha painel do artista brasileiro Kobra",
+      "shortDescription": "A repórter Ana Paula Franco foi conferir a inauguração do imenso mural urbano assinado pelo artista plástico brasileiro Kobra em Miami. Assista.",
+      "thumbnail": "https://i.vimeocdn.com/video/807420621-6899af3854dc0149d399fc03f7089e637d47ba6d0b18225c3bfbb9c6d575f558-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 308,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354802093.hd.mp4?s=0f102c879557e113ace5013bdf57de181282f2a4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c009",
+      "title": "Natal 2018 na Flórida",
+      "shortDescription": "O espírito natalino já está entre nós, e Ana Paula Franco deu um giro pelas ruas de Boca Raton e Coconut Creek para conferir as luzes, desfiles e festividades na época mais bonita do ano. Assista ao vídeo.",
+      "thumbnail": "https://i.vimeocdn.com/video/807420888-0e2a6a7c4a2de5c50901b15fc5650bf2d571ab56c5efda0ffed1c6f4213105ff-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 225,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354802222.hd.mp4?s=ef20342163b82113653b065137828337c331f623",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c010",
+      "title": "O Natal na Comunidade",
+      "shortDescription": "É Natal na comunidade. A repórter Cintia Lima foi até a cidade de Kendall, nos arredores de Miami, e acompanhou a festa na paróquia de Santa Catarina de Siena, onde os brasileiros se reúnem para a grande confraternização de fim de ano. Assista.",
+      "thumbnail": "https://i.vimeocdn.com/video/807421081-f1dd603cc7ee779e3b9c407029ee5169c2d5242c1f3b81969a717cb61ead6201-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 228,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354802395.hd.mp4?s=4a396a119fe9235a2ae632aedeebfe7a4f21d521",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c011",
+      "title": "Aline Barros e Bruna Karla convidam para show na CEIZS, em Deerfield Beach, Flórida",
+      "shortDescription": "Aline Barros e Bruna Karla convidam para show na CEIZS, em Deerfield Beach, Flórida",
+      "name": "achei",
+      "role": "Speaker",
+      "thumbnail": "https://i.vimeocdn.com/video/807421136-09d0d774ffb6890a0b59703457b7f340183fdbdf010e35e7fb3836a28ade55e0-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:00:00.431Z",
+        "captions": [],
+        "duration": 57,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354802543.hd.mp4?s=c1c7dae53be0a5f04668922f3048abd594ddd554",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c012",
+      "title": "Fotógrafo brasileiro ganha cinco prêmios internacionais",
+      "shortDescription": "Fotógrafo brasileiro ganha cinco prêmios internacionais",
+      "thumbnail": "https://i.vimeocdn.com/video/807421521-0ffaea68661473b7c777f5f7c64fa0628e08c7032f233379d3da84d02eca432f-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 74,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354802867.hd.mp4?s=7a5ee1618ebd1ce6f0694031b93a7fab1bb8bad1",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c013",
+      "title": "Al Hendrickson Toyota, a Concessionária dos Brasileiros",
+      "shortDescription": "O AcheiUSA esteve na Al Hendrickson Toyota de Coconut Creek e conferiu as ofertas de carros novos, usados e luxuosos da concessionária preferida dos brasileiros. Assista!",
+      "thumbnail": "https://i.vimeocdn.com/video/807421826-ed401654ad9d563ce077a6e03a4cad4da7e6f79028e8a3b43f23b66a9c084041-d_800x450.pngg",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 335,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354802907.hd.mp4?s=77bc7ac804f323e5b2411c322ccdab8322653815",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c014",
+      "title": "Jacaré passeia por Fort Myers, na Flórida",
+      "shortDescription": "Um enorme jacaré foi visto atravessando a rua tranquilamente e indo em direção a um parque em Fort Myers, Flórida, no último fim de semana. Confira as imagens do vídeo, cortesia de Chelsea Brinson.",
+      "thumbnail": "https://i.vimeocdn.com/video/807421835-0ec224be35b61222b2847acfa4b866cd3c39ef60b4d565aa97297a5e45c11bcd-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 31,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354803133.sd.mp4?s=8187a37bc1d2d497d961f6c9acb7b718d1ff9f8c",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c015",
+      "title": "Aplicativo Track My Guys facilita o trabalho de construtores nos EUA",
+      "shortDescription": "Aplicativo Track My Guys facilita o trabalho de construtores nos EUA",
+      "thumbnail": "https://i.vimeocdn.com/video/807421843-e42c65feb40770dbf9380945be19a159a515767963f7be14dae40adadd7c916a-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 43,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354803152.sd.mp4?s=2c52a2d65ca290dccf141385123019a16bc3dea6",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c016",
+      "title": "Vídeo mostra acidente que causou duas mortes na Flórida",
+      "shortDescription": "Homem invade contramão, bate em caminhão, morre e causa morte de outro motorista em Winter Garden. Brasileiro grava tudo em vídeo",
+      "thumbnail": "https://i.vimeocdn.com/video/807421871-191b168eba01969fedc1f52e562e85d1c1e94c28e818cdbd3cfb0c4138400061-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 43,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354803172.sd.mp4?s=64992bd791a86d8953aae6a7cb3f500543a2ea36",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c017",
+      "title": "Mergulhadores batem recorde mundial em Deerfield",
+      "shortDescription": "Mais de 600 mergulhadores, entre eles diversos brasileiros, recolheram cerca de 700kg de lixo acumulado sob o pier da praia de Deerfield, batendo o recorde mundial de recolha de lixo submarino, confirmado pelo Guinness Book.",
+      "thumbnail": "https://i.vimeocdn.com/video/807422170-004e60436ed7366bf0659a8af9a4ef7ecbe175253f7e3bdae1196996a29fa093-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 286,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354803187.hd.mp4?s=30a9a0cac56dc1e89bcc73fbf0fa8954b81d1f45",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c018",
+      "title": "Sambalá, uma escola de samba gringa com samba no pé",
+      "shortDescription": "Escola foi fundada pelo americano David de Hilster, em Los Angeles, para aplacar a saudade que a esposa brasileira tinha do Brasil. Mas quem acabou caindo no samba de vez foi o gringo, hoje presidente da escola, que mudou com fantasia, bateria e tudo mais de Los Angeles para Pompano Beach.",
+      "thumbnail": "https://i.vimeocdn.com/video/807422299-018b300af2678b630690970ea964fc6f6fff1bd6e9c0971ba22fd2d3a3df5d20-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 194,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354803373.hd.mp4?s=b11ee6131d73d523ef4f1c562d94620079d26eb9",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c019",
+      "title": "Primeira Igreja Batista da Flórida, uma igreja com propósito",
+      "shortDescription": "Liderada há mais de vinte anos pelo pastor Silair Almeida, a Primeira Igreja Batista de Pompano Beach (Flórida) tem como missão por em prática dois dos ensinamentos mais fundamentais da filosofia cristã:  solidariedade e empatia.",
+      "thumbnail": "https://i.vimeocdn.com/video/807422621-ac2808da6c3a428d8567e2e1f1b8b07d7b591c6fcc96a9317713d0e6f35a8295-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 521,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354803474.hd.mp4?s=52f1f206cebb2d2b5d928b07f98ebbd1622c57a5",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c020",
+      "title": "Ciclista é baleado na ponte de Key Biscayne (FL); atirador gravou vídeo mostrando a ação",
+      "shortDescription": "Ciclista é baleado na ponte de Key Biscayne (FL); atirador gravou vídeo mostrando a ação",
+      "thumbnail": "https://i.vimeocdn.com/video/807422665-33709f06a600cc4762ec5c45ea89a3dd3c71071eb17e9cca236dc8416dfba05b-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 86,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/354803715.sd.mp4?s=0901c9b0e36d4307488a800446bda49f248ca7b8",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c021",
+      "title": "Sawgrass Mills - O maior outlet de compras nos Estados Unidos",
+      "shortDescription": "CEle é o shopping preferido de nove entre dez brasileiros que visitam Miami. Saiba porque.",
+      "thumbnail": "https://i.vimeocdn.com/video/809204375-712513d0b8dc9c820fe25546d56ecfaf783000d47be4d83d1c55ba3ba0cbfdda-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 317,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/356183830.hd.mp4?s=b9999a48e5db99c93f4e1c18912c9cec74998602",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c022",
+      "title": "Inglês ou português O dilema linguístico das crianças brasileiras nos EUA",
+      "shortDescription": "As crianças filhas de pais brasileiros nascidas nos EUA precisam se comunicar tanto em inglês, na escola, quanto em português, em casa. Como as famílias lidam com essa duplicidade é o assunto da reportagem da AcheiTV desta semana.",
+      "thumbnail": "https://i.vimeocdn.com/video/811048977-13fe39fa8bc5ef409605f846c159e429fd902805f041d1a745b34eeac3ab00a4-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 294,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/357640445.hd.mp4?s=7dce7f04a2682f5f2d4e356bddfd7d66744c447a",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c023",
+      "title": "O que os imigrantes brasileiros nos Estados Unidos pensam do governo Bolsonaro?",
+      "shortDescription": "Jair Bolsonaro teve mais de 70% dos votos dos brasileiros que vivem na região da Grande Miami e da Grande Orlando. A reportagem da AcheiTV foi às ruas para saber o que esses brasileiros estão achando do governo Bolsonaro, 8 meses depois da posse. Confira as entrevistas.",
+      "thumbnail": "https://i.vimeocdn.com/video/813460892-1bd9f2e1bc557e5eb718c9e282c51a09c6841b29dfc0d8a240233750804576c1-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 411,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/359538344.hd.mp4?s=aaefd233fc531ce2588458910201c3b89bd62d50",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c024",
+      "title": "Imigrantes brasileiros socorrem Bahamas devastada por furacão",
+      "shortDescription": "Há 37 anos ele cuida da saúde da comunidade brasileira que mora no Sul da Flórida. Conheça um pouco mais da história de Neri Franzon, o chamado 'Médico da Comunidade.'",
+      "thumbnail": "https://i.vimeocdn.com/video/815704996-2ec5762421fb37eca588ac21935f754f4639aa84b0c2743b4be955c2c09aad39-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 357,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/361158852.hd.mp4?s=b30bf8b42eeb1405f1623da570eedba8a76deb47",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c025",
+      "title": "O médico da comunidade",
+      "shortDescription": "Duas ONGs lideradas por brasileiros no estado da Flórida - Global Assistance e Volunteer Emergency Relief - organizaram um mutirão de ajuda aos desabrigados pelo furacão Dorian nas Bahamas. Toneladas de mantimentos foram arrecadadas e despachadas para as áreas mais atingidas.",
+      "thumbnail": "https://i.vimeocdn.com/video/819442630-e8a16342f35b773c1e5a397b7f1c2fbab8f77fc49fcb680560e24c248f072def-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 379,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/364108252.hd.mp4?s=a688e1bdeaf81e3112d512a3aa6fb08fecd70b5c",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c026",
+      "title": "Quem será a brasileira mais bela nos Estados Unidos?",
+      "shortDescription": "Coroa de Miss Brasil USA 2019 vai para paulista que representou o estado de Maryland. Final do concurso aconteceu no teatro Manuel Artimer, em Miami.",
+      "thumbnail": "https://i.vimeocdn.com/video/822542654-80faa2ccfbfb9a6555fed42b937c11a51bb9973d999078f0ad3c63f1fd53c91f-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 393,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/366482785.hd.mp4?s=ea34bc484eb6c1cf790a8e4012b6a5072d34b95a",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c027",
+      "title": "Fla Miami faz a festa",
+      "shortDescription": "Torcida organizada do Flamengo em Miami se reúne para assitir à vitória sobre o Grêmio e comemora a classificação para a final da Copa Libertadores da América.",
+      "thumbnail": "https://i.vimeocdn.com/video/825909100-570009fb9e92e87de8cc1a2129dd96e919be577515ce32750436b4707e186359-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 323,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/369064312.hd.mp4?s=7d34aba59f3193422734b2da8c2b51945fe2a09b",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c028",
+      "title": "O Halloween muito louco da Lincoln Rd.",
+      "shortDescription": "O Halloween da Lincoln Road, a rua mais famosa de Miami Beach, a cada ano aumenta em animação e criatividade.",
+      "thumbnail": "https://i.vimeocdn.com/video/828084107-137acfc8f2e81727ac2ca7f73715b024c239cab655737be9063b5cb4a59ed661-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 221,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/370768499.hd.mp4?s=a611856130bb9115f57fb1b6e1394e69504bbb68",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c029",
+      "title": "Comunidade brasileira em Kendall celebra a santa Padroeira do Brasil",
+      "shortDescription": "Católicos brasileiros da cidade de Kendall, perto de Miami, celebram o dia de Nossa Senhora de Aparecida na paróquia local.",
+      "thumbnail": "https://i.vimeocdn.com/video/828083741-27b762ffd9261e90e8a2d40285d96780126e701ecd2585c43cd31863f89b200d-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 228,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/370768286.hd.mp4?s=2dbc2d753ab10e5f53cfc1000d9e9ae3a1f1aa88",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c030",
+      "title": "Uma opção de lazer e saúde sobre duas rodas",
+      "shortDescription": "O que começou como uma ideia entre cinco amigos, hoje reúne mais de 200 ciclistas, amadores e semi-profissionais, pedalando pelas ruas e estradas do sul da Flórida.",
+      "thumbnail": "https://i.vimeocdn.com/video/828093121-262b879ea6bad64497f7885a15cc65bfbd8348e44d5aefc6f9581b2930d166f7-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 424,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/370774644.hd.mp4?s=02bf70e0d4ba3f0db22305a3cd2f74052ee7ccb5",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c031",
+      "title": "MIAMI INTERNATIONAL AUTO SHOW 2019",
+      "shortDescription": "O Miami International Auto Show 2019 terminou neste domingo (10). Foram dez dias de exposição para um público estimado em 300 mil visitantes. Se você não foi, não se preocupe.",
+      "thumbnail": "https://i.vimeocdn.com/video/830506944-da6c959e4902bebb4651e09e0ec855495b117bdeff70c1ccdf06fbb9dc121c78-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 424,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/372626336.hd.mp4?s=bd91a2692f067f4f57eff0234fba77266b1697c5",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c032",
+      "title": "Brasil na passarela de Miami Beach",
+      "shortDescription": "Brazil Fashion Forum traz o melhor da moda brasileira para Miami. Cintia Lima esteve lá e conta como foi a terceira edição do evento na Magic City.",
+      "thumbnail": "https://i.vimeocdn.com/video/836105239-ce9afa98485c932726138034ecd19f5a8c6478bee5ea5926412ddc333e7f8659-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 259,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/376723225.hd.mp4?s=07d193bb53f57e18a0a19fe2ffac904e3781a6aa",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c033",
+      "title": "Você sabe o que é Obamacare?",
+      "shortDescription": "Vai até o dia 15 de dezembro o prazo para a inscrição no Affordable Care Act (Obamacare) 2020, o programa do governo que permite descontos na aquisição do seguro-saúde. A repórter Suzanna Alcântara foi conversar com a especialista Marcia da Silva, da seguradora A Security, que explicou tudo o que você precisa saber sobre o programa. Assista.",
+      "thumbnail": "https://i.vimeocdn.com/video/836691027-45bed56650a60f85aaf11ff5a26d77b02c2eece1d9b8cc74e606d864dabac788-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 259,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/377289691.hd.mp4?s=f9c2ddc8d2acb96f734e2e2c1cfda6ebfba24fae",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c034",
+      "title": "Talento brasileiro premiado na arte de decorar o corpo",
+      "shortDescription": "Eles são os quatro tatuadores mais premiados da Flórida. Juntos, somam 18 prêmios somente este ano. Conheça o trabalho dos artistas do Iron Glory Tattoo Studio, em Pompano Beach.",
+      "thumbnail": "https://i.vimeocdn.com/video/838496745-4c40842b4540eb74fb1e03b67f0d620063970880d9591e05c283683e3a48ba36-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 394,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/378668098.hd.mp4?s=8ecb662ca1eb249c70d191edafc055d3d5034781",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c035",
+      "title": "O Papai Noel dos brasileiros nos Estados Unidos",
+      "shortDescription": "Neste final de ano, Suzanna Alcântara entrevistou para a AcheiUSATV um personagem muito especial. Conheça o Papai Noel da comunidade brasileira nos Estados Unidos, que há mais de vinte anos leva presentes e alegria para os brasileirinhos daqui e do Brasil.",
+      "thumbnail": "https://i.vimeocdn.com/video/840962340-a0856b0c374c537464070a7b82a927642fde8633c4c0f475340083789b8cfe26-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 311,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/380545782.hd.mp4?s=607f295407a89d4169b8d1834b212766b7a3debd",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c036",
+      "title": "A paixão além da fronteira",
+      "shortDescription": "O Flamengo perdeu o Mundial, mas o Consulado FlaUSA Pompano, torcida organizada do rubro-negro carioca na cidade de Pompano Beach (FL), fez a festa assim mesmo.",
+      "thumbnail": "https://i.vimeocdn.com/video/842271654-565d863b84bf5b7664d217bdc79df19e5936af3e253583dbabffb5e6c8898f2c-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 367,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/381443210.hd.mp4?s=ca77bee7ce96beb6a7868d719f537992aba3523f",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c037",
+      "title": "O Brasil em cartaz em Miami",
+      "shortDescription": "A décima-quarta edição do Brazilian Film Festival of Miami bateu recorde em 2010, levando mais de 13 mil pessoas para assisitirem ao melhor do cinema brasileiro em Miami, durante nove dias de exibição.",
+      "thumbnail": "https://i.vimeocdn.com/video/843493279-5651f13a95e6c71d52abf92e264c7d7bfc9ecaf41f9c9f17133a46ad6e413c1f-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 367,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/382395935.hd.mp4?s=8343d9f266202e915406a099ea70cc09616983c6",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c038",
+      "title": "Um brasileiro na polícia americana",
+      "shortDescription": "A reportagem da AcheiUSAtv acompanhou o Sargento Ricardo Braga, do Broward Sheriff's Office, em sua ronda na madrugada pelas ruas de Pompano Beach, na Flórida.",
+      "thumbnail": "https://i.vimeocdn.com/video/844430942-49486cb95fb9a1a6245a251b64f2e2c29ab00e60eaeb08092f5e56919ba319f5-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 345,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/383063578.hd.mp4?s=d53dec844ef56b65a432e94dbd20eadc078e5b7c",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c039",
+      "title": "Duas rodas abençoadas",
+      "shortDescription": "Brasileiros amantes do motociclismo recebem a bênção anual das motos na igreja de Margate, na Flórida. A reportagem da AcheiUSAtv acompanhou. Assista.",
+      "thumbnail": "https://i.vimeocdn.com/video/850801916-e5d2edc1c92e2bdfc457274575d339758be6127ff7126b0dbe1f2fa0b8cacd69-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 345,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/387748880.hd.mp4?s=041be482cb279f896fcbb5cd3c9c46e9b8508820",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c040",
+      "title": "Imigrante ilegal precisa se alistar?",
+      "shortDescription": "No início do ano, preocupados com uma possível guerra, jovens americanos sobrecarregaram o website do Selective Service, o serviço de cadastramento militar americano. A reportagem da AcheiUSAtv foi saber quem é obrigado a se cadastrar nas Forças Armadas dos Estados Unidos.",
+      "thumbnail": "https://i.vimeocdn.com/video/852813124-534e9d6924e685a01f1c672af03d1256f29b2cf40acbd836a0eddbe1f1879c0c-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 345,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/388843172.hd.mp4?s=8f760ee39e778c748b7bb53069f75d0d0b538462",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c041",
+      "title": "Cuidando da saúde dos brasleiros em Boca Raton",
+      "shortDescription": "Everybody's Family Clinic, fundada pelas irmãs Jacqueline Gonçalves e Helen Louzada, é uma clínica de saúde integral, especializada em exames e  prevenção de doenças. Com atendimento em português, a clínica é uma ótima opção para os exames anuais de saúde da mulher e outros preventivos para toda a família. A clínica oferece ótimos pacotes para associados, com preços bastante acessíveis.",
+      "thumbnail": "https://i.vimeocdn.com/video/855466495-06d73bf8332fa188783dbc50771fa7153c52e7247f59a60d703337e203319f28-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 345,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/390790078.hd.mp4?s=b4e8bc075c4a7d783293e4ba8ce62c29f428b36b",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c042",
+      "title": "Yes, nós temos Carnaval",
+      "shortDescription": "Brasileiros fazem seu Carnaval na cidade de Hollywood (FL) e mostram samba no pé. Suzanna Alcântara foi lá conferir a festa.",
+      "thumbnail": "https://i.vimeocdn.com/video/859710787-830057591219fc2a5765f29c3bf1e50192eef99c36d03cfc75d72880b7f16492-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 323,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/393985964.hd.mp4?s=7633b222285623f6064f7cb6c3366701accdcf07",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c043",
+      "title": "Brasileiro mandado de volta em voo fretado (vídeo enviado pelo entrevistado)",
+      "shortDescription": "Brasileiro mandado de volta em voo fretado (vídeo enviado pelo entrevistado)",
+      "thumbnail": "https://i.vimeocdn.com/video/863665116-ae3326c76baa11d77bcd5e17030dc4719cbb00d5d41ae43b27727c67b6645902-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 34,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/395787511.sd.mp4?s=21fcd11e54a68acfd99c1aa5a3f73ad14986f7a1&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c044",
+      "title": "Construa uma nova geração. Conte-os.",
+      "shortDescription": "O censo possibilita que se tenha informações fundamentais para você e sua comunidade. Ele determina quantos representantes cada estado terá no Congresso e é utilizado para redesenhar os limites distritais.",
+      "thumbnail": "https://i.vimeocdn.com/video/863665628-5ade06eab8652e5394ae9f40efe7d50aacce677cd541e78fc738b9d73e821add-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2017-02-28",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 36,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/396701689.hd.mp4?s=217f99a2e37339dbd3a5e5510a878696390e864a&profile_id=175",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c045",
+      "title": "O consulado na pandemia",
+      "shortDescription": "A repórter Cintia Lima esteve na sede do Consulado-Geral do Brasil em Miami e conversou com o cônsul-geral, João Mendes, sobre a situação dos serviços consulares durante a crise pandêmica do coronavirus.",
+      "thumbnail": "https://i.vimeocdn.com/video/892755274-216ce2f820baf12fb109eb419a563ef257967815075af61d3a7a5352a58d13cc-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2022",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 461,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/418252657.hd.mp4?s=10d6f1ec5f396154fa5dc32a65f6aab5210c46a2&profile_id=175",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c046",
+      "title": "Covid-19 - Teste para anticorpos na Everybody’s Family Clinic",
+      "shortDescription": "A clínica médica Everybody's Family Clinic, em Boca Raton (FL), dispõe de testes para anticorpos de Covid-19, por apenas $60. Ligue e marque: 561-430-5756",
+      "thumbnail": "https://i.vimeocdn.com/video/935731737-b9d90a5daf85fe7e7dc9ab2b5d6a1d29017ec4370b11f7bf855a45bbb92c5ef7-d_800x450.png",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "musics"
+      ],
+      "releaseDate": "2022",
+      "content": {
+        "dateAdded": "2017-02-28T14:14:54.431Z",
+        "captions": [],
+        "duration": 461,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/445077257.sd.mp4?s=c645506dda2e7cdaa0ee5700a820920d251ea9fd&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c049",
+      "title": "Adolescentes brasileiros assaltam loja de conveniência em Osceola County, Flórida",
+      "shortDescription": "Sete adolescentes brasileiros com idade entre 13 e 18 anos foram presos após cometerem uma série de roubos à mão armada no sábado (22), na área de St. Cloud City, no condado de Osceola, próximo a Orlando.",
+      "thumbnail": "https://i.vimeocdn.com/video/947693871-a6e16efb863d6488683cfcb8eb6379a2e97a8355c1c6142722e71be5371887fd-d_800x450.png",
+      "releaseDate": "2022",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2020-08-27T13:17:36-04:00",
+        "duration": 64,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/452277880.sd.mp4?s=32c41351a8a9b73bc649857831aef80f6117116d&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 604332
+          }
+        ]
+      }
+    },
+    {
+      "id": "c048",
+      "title": "A missa na pandemia",
+      "shortDescription": "Cintia Lima esteve na igreja católica Santa Catarina de Siena, em Kendall, conferindo as medidas de prevenção tomadas pela Arquidiocese de Miami para a proteção dos fieis durante as celebrações e missas nas paróquias da cidade e arredores",
+      "thumbnail": "https://i.vimeocdn.com/video/947693922-f0e9640ba320b5bd60534e7b215c182d6aebcba8dfaa393b1771972b9fcac464-d_800x450.png",
+      "releaseDate": "2022",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2020-08-27T13:17:36-04:00",
+        "duration": 181,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/452277575.hd.mp4?s=44472d94418f94739ce77b8aed4c83657ae769fc&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2050155
+          }
+        ]
+      }
+    },
+    {
+      "id": "c047",
+      "title": "Restaurantes na pandemia",
+      "shortDescription": "A repórter Suzanna Alcântara visitou restaurantes e padarias brasileiras na região de Pompano Beach, Deerfield Beach e Boca Raton (FL) para saber como os estabelecimentos estão se adaptando à nova realidade de consumo na pandemia.",
+      "thumbnail": "https://i.vimeocdn.com/video/947696484-46ceebc241fdedd6eca971a61d48a1ae7eb98abb814aa7f257c9302c56e062ed-d_800x450.png",
+      "releaseDate": "2022",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2020-08-27T13:17:36-04:00",
+        "duration": 243,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/452277902.hd.mp4?s=e98add0474a9a48472c4ae7714278fe6edfcd4fd&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2471032
+          }
+        ]
+      }
+    },
+    {
+      "id": "c050",
+      "title": "Eliminando gordura localizada com CoolSculpting®",
+      "shortDescription": "O procedimento de congelamento de gordura CoolSculpting® é um tratamento líder na redução de gordura não cirúrgica. Ele usa resfriamento controlado para eliminar a gordura resistente, que é difícil de tratar, mesmo com dieta e exercícios.",
+      "thumbnail": "https://i.vimeocdn.com/video/957445888-01a4dc13147ae4d492492229b8220afbc66099228c491a3f6361dc9fee6e232e-d_800x450.png",
+      "releaseDate": "2022",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2020-09-10T17:37:55-04:00",
+        "duration": 97,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/457928552.sd.mp4?s=b6e7f32347ec72a6982d28bed8b39b6b6bcc7729&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1199295
+          }
+        ]
+      }
+    },
+    {
+      "id": "c051",
+      "title": "IR OU NÃO IR À ESCOLA",
+      "shortDescription": "Suzanna Alcântara entrevista pais e alunos brasileiros das escolas da Flórida e conversa com especialista sobre os prós e contras do estudo à distância durante a pandemia de covid-19",
+      "thumbnail": "https://i.vimeocdn.com/video/957448270-1c4869d41c44653e473c0d53d6f5ca4448cf1cf8689025a1d4315919dbfc73e7-d_800x450.png",
+      "releaseDate": "2022",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2020-09-11T17:37:55-04:00",
+        "duration": 266,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/457928643.hd.mp4?s=250ae5a53924bdfad6eea0caad2cdb94ddb27507&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 3613099
+          }
+        ]
+      }
+    },
+    {
+      "id": "c052",
+      "title": "Qual a diferença entre visto e status imigratório",
+      "shortDescription": "O advogado Mark Moraes da Piquet Law Firm esclarece.",
+      "thumbnail": "https://i.vimeocdn.com/video/967201382-b13033f674b5f10c3014735ebd939a475c75677715330b027c73e3c3be50f31c-d_800x450.png",
+      "releaseDate": "2022",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2020-10-01T20:02:09-04:00",
+        "duration": 293,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/463673041.sd.mp4?s=149e2324ef5cd1c0da9fbfcc05146a4dbd9dfeb7&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 982575
+          }
+        ]
+      }
+    },
+    {
+      "id": "c053",
+      "title": "Em quem os brasileiros vão votar",
+      "shortDescription": "Trump ou Biden? A repórter Suzanna Alcântara foi às ruas de Pompano Beach, Deerfield Beach e Boca Raton, na Flórida, para saber como os brasileiros decidem em quem vão votar, e ouviu a opinião do historiador e brasilianista James Green sobre as escolhas",
+      "thumbnail": "https://i.vimeocdn.com/video/986479320-6c3580e71261d1d9a8960b16db3bf025b0c8ae20ab83fd1a74eefbfb34f36206-d_800x450.png",
+      "releaseDate": "2022",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "special"
+      ],
+      "content": {
+        "dateAdded": "2020-11-01T19:27:29-05:00",
+        "duration": 406,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/474491078.hd.mp4?s=25508fbaba94f88ad7474afe6d747b4c87a0a67a&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 2274785
+          }
+        ]
+      }
+    },
+    {
+		"id": "c056",
+		"title": "Will Smith bate em Chris Rock no Oscar 2022",
+		"shortDescription": "Will Smith bate em Chris Rock no Oscar 2022 (Imagens REUTERS; Robert Hanashiro\/USA TODAY NETWORK\/Reuters)",
+		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1441527819-7495a6fa1e0336cd3e68011b2076d4353d8779dae5efda9e0dfde557d125bec5-d_800x450.png",
+		"releaseDate": "2022",
+		"genres": ["special"],
+		"tags": ["special"],
+		"content": {
+			"dateAdded": "2022-05-30T08:31:45-04:00",
+			"duration": 705,
+			"videos": [{
+				"url": "https://player.vimeo.com/progressive_redirect/playback/715207124/rendition/720p/file.mp4?loc=external&signature=63b199fd6a9ad88f1bc72d546a3dae44d36f069deabe758c1b979c7ae36fbabb",
+				"quality": "HD",
+				"videoType": "MP4",
+				"bitrate": null
+			}]
+		}
+	}, {
+		"id": "c055",
+		"title": "A comunidade e a vacina.mp4",
+		"shortDescription": "A rep\u00f3rter Suzanna Alc\u00e2ntara foi \u00e0 rua em Boca Raton para saber a opini\u00e3o dos brasileiros sobre as vacina\u00e7\u00e3o contra covid-19.",
+		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1441526996-a86c34476e48ae3b3d26f6098a7e04721ecfb3c83e97bce80567a243fe5e2894-d_800x450.png",
+		"releaseDate": "2022",
+		"genres": ["special"],
+		"tags": ["special"],
+		"content": {
+			"dateAdded": "2022-05-30T08:31:45-04:00",
+			"duration": 316,
+			"videos": [{
+				"url": "https://player.vimeo.com/progressive_redirect/playback/715206818/rendition/720p/file.mp4?loc=external&signature=267908c4c50048697a0e8d797bda31677932f231de29270ca75f2f6cea543334",
+				"quality": "HD",
+				"videoType": "MP4",
+				"bitrate": null
+			}]
+		}
+	}, {
+		"id": "c054",
+		"title": "Luv Beauty & Spa realiza Ke\u0301rastase Day",
+		"shortDescription": "Luv Beauty & Spa realiza K\u00e9rastase Day",
+		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1441526993-d51157abd85990201444327254270aea4faddb6e3e56d6313c54a8a0dd1362b6-d_800x450.png",
+		"releaseDate": "2022",
+		"genres": ["special"],
+		"tags": ["special"],
+		"content": {
+			"dateAdded": "2022-05-30T08:31:45-04:00",
+			"duration": 102,
+			"videos": [{
+				"url": "https://player.vimeo.com/progressive_redirect/playback/715207080/rendition/240p/file.mp4?loc=external&signature=d967a6a0b018d912c1bad99180f71059e5836bac5118f169ad6ffbac7047495c",
+				"quality": "HD",
+				"videoType": "MP4",
+				"bitrate": null
+			}]
+		}
+	},
+	{
+		"id": "c057",
+		"title": "Inffinito Miami Brazilian Film Festival 2022",
+		"shortDescription": "Vig\u00e9sima-sexta edi\u00e7\u00e3o do Festival do Cinema Brasileiro, realizado pela Inffinito Foundation. De 10 a 17 de setembro de 2022, em Miami. Show de encerramento com Adriana Calcanhoto.",
+		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1506154225-2b09e2dcdd3f1b310f81930802851aa9befa8b3efb25a86075e93bdb48fed1ea-d_800x450.png",
+		"releaseDate": "2022-09-12T18:04:02-04:00",
+		"genres": ["news"],
+		"tags": ["news"],
+		"content": {
+			"dateAdded": "2022-09-12T18:05:41-04:00",
+			"duration": 139,
+			"videos": [{
+				"url": "https://player.vimeo.com/progressive_redirect/playback/748956128/rendition/720p/file.mp4?loc=external&signature=89ef3d6f184d5f6f94e3dbb9e2f5392f8d1078cd045290d4fb8881b9180d81b9",
+				"quality": "HD",
+				"videoType": "MP4",
+				"bitrate": null
+			}]
+		}
+	},
+  {
+		"id": "c058",
+		"title": "Jair Bolsonaro em Miami 2020",
+		"shortDescription": "A rep\u00f3rter Cintia Lima acompanha a visita do presidente do Brasil, Jair Bolsonaro, a Miami, onde ele fez palestra e confraternizou com apoiadores em 2020. O encontro fez parte da agenda da quarta visita do presidente aos EUA, onde se reuniu com o presidente Donald Trump.",
+		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1628122847-eea4fba6b17c3a641293b5b6374e7eb7f5e532c7991930b9e6fb8276992e607f-d_800x450",
+		"releaseDate": "2023-03-09T06:33:08-05:00",
+		"genres": ["special"],
+		"tags": ["special"],
+		"content": {
+			"dateAdded": "2023-03-09T06:44:29-05:00",
+			"duration": 279,
+			"videos": [{
+				"url": "https://player.vimeo.com/progressive_redirect/playback/806297682/rendition/1080p/file.mp4?loc=external&signature=3ff5b73e96a214e7608383a364bf828fd274f3365e65191c0c952246ae340076",
+				"quality": "FHD",
+				"videoType": "MP4",
+				"bitrate": null
+			}]
+		}
+	},
+  {
+  		"id": "820483897",
+  		"title": "Gisele Bu\u0308ndchen e Ivete Sangalo participam de evento beneficente em Miami",
+  		"shortDescription": "Modelo e cantora ser\u00e3o as principais convidadas da BrazilFoundation, entidade filantr\u00f3pica que apoia projetos sociais relevantes no Brasil.",
+  		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1660214663-ea400150d07826b3b2b8e8d5d7b5e8758b1d71f6ec0f5d9c401df3738036657c-d_800x450",
+  		"releaseDate": "2023",
+  		"genres": ["faith"],
+  		"tags": ["faith"],
+  		"content": {
+  			"dateAdded": "2023-04-24T07:29:52-04:00",
+  			"duration": 86,
+  			"videos": [{
+  				"url": "https://player.vimeo.com/progressive_redirect/playback/820483897/rendition/1080p/file.mp4?loc=external&signature=b6151340b2a18684f6bd6369a93fb54b09fbf1c703f47645c8049cddaad846ba",
+  				"quality": "FHD",
+  				"videoType": "MP4",
+  				"bitrate": null
+  			}]
+  		}
+  	}, {
+  		"id": "820483925",
+  		"title": "Biden anuncia candidatura a\u0300 reeleic\u0327a\u0303o",
+  		"shortDescription": "Presidente dos Estados Unidos disse que pretende concorrer \u00e0 reelei\u00e7\u00e3o em 2024.",
+  		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1660214678-06aeb760a32eba3083dc4c33c21cf7d5dceec8e55826756492f7e22dfc77d33f-d_800x450",
+  		"releaseDate": "2023",
+  		"genres": ["faith"],
+  		"tags": ["faith"],
+  		"content": {
+  			"dateAdded": "2023-04-24T07:29:52-04:00",
+  			"duration": 66,
+  			"videos": [{
+  				"url": "https://player.vimeo.com/progressive_redirect/playback/820483925/rendition/1080p/file.mp4?loc=external&signature=27a6612be25d1f4a4cd068c80939cc4e53cd5ba4206d10982341181b91bc59ca",
+  				"quality": "FHD",
+  				"videoType": "MP4",
+  				"bitrate": null
+  			}]
+  		}
+  	}, {
+  		"id": "820483954",
+  		"title": "Penta\u0301gono divulga vi\u0301deo de objeto misterioso no Oriente Me\u0301dio",
+  		"shortDescription": "O Pent\u00e1gono divulgou na semana passada o v\u00eddeo de uma misteriosa \u201cesfera met\u00e1lica\u201d movendo-se sobre uma \u00e1rea no Oriente M\u00e9dio.",
+  		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1660214760-6776b671ddc37b449db6354c19ed78525154ca876fb51933d882949506357633-d_800x450",
+  		"releaseDate": "2023",
+  		"genres": ["faith"],
+  		"tags": ["faith"],
+  		"content": {
+  			"dateAdded": "2023-04-24T07:29:52-04:00",
+  			"duration": 53,
+  			"videos": [{
+  				"url": "https://player.vimeo.com/progressive_redirect/playback/820483954/rendition/720p/file.mp4?loc=external&signature=0ba3483f9b0ab7d3773e4e9ab82582fd1d06a0400909bfec09b1a0402c726a97",
+  				"quality": "HD",
+  				"videoType": "MP4",
+  				"bitrate": null
+  			}]
+  		}
+  	}, {
+  		"id": "820483979",
+  		"title": "Starship explode no primeiro voo de testes",
+  		"shortDescription": "Starship, o maior e mais potente foguete j\u00e1 constru\u00eddo, falhou em seu primeiro voo de teste n\u00e3o tripulado nesta quinta-feira (20), explodindo a 29km de altura, poucos minutos depois do lan\u00e7amento da base espacial da SpaceX em Boca Chica, no Texas.",
+  		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1660214811-73eb424018e64fdb50b850e63991005444c9333cbdfd3fd7024c592e8e713327-d_800x450",
+  		"releaseDate": "2023",
+  		"genres": ["faith"],
+  		"tags": ["faith"],
+  		"content": {
+  			"dateAdded": "2023-04-24T07:29:52-04:00",
+  			"duration": 251,
+  			"videos": [{
+  				"url": "https://player.vimeo.com/progressive_redirect/playback/820483979/rendition/720p/file.mp4?loc=external&signature=935da8ae56c34e780077c034d10c78a97d71b1dfbae1418ee992009223c33171",
+  				"quality": "HD",
+  				"videoType": "MP4",
+  				"bitrate": null
+  			}]
+  		}
+  	}, {
+  		"id": "820484005",
+  		"title": "West Palm Beach incentiva empreendedores com $500 mil",
+  		"shortDescription": "Notici\u00e1rio apresentado por C\u00edntia Lima",
+  		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1660214814-4808e99229690c9a5d05e7de9cfec32f77d25067527e30a5251cfa39ef881a02-d_800x450",
+  		"releaseDate": "2023",
+  		"genres": ["faith"],
+  		"tags": ["faith"],
+  		"content": {
+  			"dateAdded": "2023-04-24T07:29:52-04:00",
+  			"duration": 74,
+  			"videos": [{
+  				"url": "https://player.vimeo.com/progressive_redirect/playback/820484005/rendition/720p/file.mp4?loc=external&signature=a740ec7913929bec2222e00f9910b392cb678092f4fd5fb1e682df47ee861498",
+  				"quality": "HD",
+  				"videoType": "MP4",
+  				"bitrate": null
+  			}]
+  		}
+  	}, {
+  		"id": "820495962",
+  		"title": "UNINTER - A universidade dos brasileiros no exterior",
+  		"shortDescription": "Isabel Flores conversa com Fabiano Ozique, Gerente de Neg\u00f3cios Internacionais da UNINTER, universidade que oferece cursos de gradua\u00e7\u00e3o e p\u00f3s-gradua\u00e7\u00e3o reconhecidos pelo Minist\u00e9rio da Educa\u00e7\u00e3o e Cultura (MEC) para brasileiros residentes no exterior. Saiba quais os cursos oferecidos, como se matricular, assistir \u00e0s aulas pela Internet e as vantagens  profissionais com a obten\u00e7\u00e3o de um diploma de curso superior.",
+  		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1660233076-9dd11a07e4bcef70a287a2583b17758c644e343d38f5e6b9a3e37ef28c5107e0-d_800x450",
+  		"releaseDate": "2023",
+  		"genres": ["faith"],
+  		"tags": ["faith"],
+  		"content": {
+  			"dateAdded": "2023-04-24T08:12:32-04:00",
+  			"duration": 1407,
+  			"videos": [{
+  				"url": "https://player.vimeo.com/progressive_redirect/playback/820495962/rendition/720p/file.mp4?loc=external&signature=9845328e5516f55b3f445c0e3ce3d68f5ce6a090672f4578d3634b19b05250db",
+  				"quality": "HD",
+  				"videoType": "MP4",
+  				"bitrate": null
+  			}]
+  		}
+  	}, {
+  		"id": "820484040",
+  		"title": "Renata Castro - Se eleito, Ron DeSantis vai ser trinta vezes pior que Trump para os imigrantes",
+  		"shortDescription": "A rep\u00f3rter Ana Paula Franco entrevista a advogada de imigra\u00e7\u00e3o Renata Castro, do Castro Legal Group, que comenta sobre as possibilidades de legaliza\u00e7\u00e3o para quem est\u00e1 fora de status e fala sobre a pol\u00eamica pol\u00edtica imigrat\u00f3ria do governador da Fl\u00f3rida, Ron DeSantis.",
+  		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1660215246-b16c207d8575421aef72c43050b129a7f463b8af28ee8f2fea19a66de3ac3b53-d_800x450",
+  		"releaseDate": "2023",
+  		"genres": ["faith"],
+  		"tags": ["faith"],
+  		"content": {
+  			"dateAdded": "2023-04-24T07:29:52-04:00",
+  			"duration": 2039,
+  			"videos": [{
+  				"url": "https://player.vimeo.com/progressive_redirect/playback/820484040/rendition/1080p/file.mp4?loc=external&signature=4f6b7684ea1019ea69e6d155b09a591571cbf1089855b8e33098963c745b8d10",
+  				"quality": "FHD",
+  				"videoType": "MP4",
+  				"bitrate": null
+  			}]
+  		}
+  	}, {
+  		"id": "820493389",
+  		"title": "Marina Elliot mostra o caminho da casa pro\u0301pria na Flo\u0301rida",
+  		"shortDescription": "A rep\u00f3rter Ana Paula Franco entrevista Marina Elliot, real estate specialist que explica as v\u00e1rias op\u00e7\u00f5es de compra e venda de im\u00f3veis no estado da Fl\u00f3rida. As melhores \u00e1reas, oportunidades e novas tend\u00eancias no mercado.",
+  		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1660228594-0e5a0864e3833d384878aa4d255c13f807f6c8274cefcb6517c8b5e40ac6b18e-d_800x450",
+  		"releaseDate": "2023",
+  		"genres": ["faith"],
+  		"tags": ["faith"],
+  		"content": {
+  			"dateAdded": "2023-04-24T08:04:24-04:00",
+  			"duration": 1326,
+  			"videos": [{
+  				"url": "https://player.vimeo.com/progressive_redirect/playback/820493389/rendition/1080p/file.mp4?loc=external&signature=c90f8e63d49d46777820c14fa87bb7c46bf200e10fdc7d617aae5ba71eb29b80",
+  				"quality": "FHD",
+  				"videoType": "MP4",
+  				"bitrate": null
+  			}]
+  		}
+  	},
+    {
+    		"id": "achei824065808",
+    		"title": "Advogada Renata Castro comenta a pole\u0302mica lei imigrato\u0301ria aprovada pelo Congresso da Flo\u0301rida",
+    		"shortDescription": "Nova lei \u00e9 dura com os imigrantes indocumentados e s\u00f3 falta ser assinada pelo governador Ron deSantis. Entre outras medidas, est\u00e3o restri\u00e7\u00f5es a carteiras de motorista de outros estados, problemas para quem aluga im\u00f3vel para imigrantes indocumentados e san\u00e7\u00f5es para quem d\u00e1 trabalho para esses imigrantes. Renata Castro, em live transmitida pelo Facebook do AcheiUSA no dia 3 de maio, esclarece tudo.",
+    		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1665739639-67906ac6fd064ecad59dda65c9addf738ae088b6ce3e77b50430ab486f02b853-d_800x450",
+    		"releaseDate": "2023",
+    		"genres": ["faith"],
+    		"tags": ["faith"],
+    		"content": {
+    			"dateAdded": "2023-05-05T08:17:56-04:00",
+    			"duration": 3680,
+    			"videos": [{
+    				"url": "https://player.vimeo.com/progressive_redirect/playback/824065808/rendition/1080p/file.mp4?loc=external&signature=df300ed847deb12f89054a4c9f3bf2e1cc6bdc418a472cfc4f663f8994b21e12",
+    				"quality": "HD",
+    				"videoType": "MP4",
+    				"bitrate": null
+    			}]
+    		}
+    	}, {
+    		"id": "achei824065226",
+    		"title": "Tornado atinge Palm Beach Gardens",
+    		"shortDescription": "Confira imagens incr\u00edveis de um tornado que atingiu Palm Beach Gardens (FL), no s\u00e1bado (29), virando carros. Estima-se que os ventos atingiram 100mph (160 km\/h).",
+    		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1665736836-7675f522533580bdda1c5d8aa0be805d981485d1248d8dc40c58125c921ac096-d_800x450",
+    		"releaseDate": "2023",
+    		"genres": ["faith"],
+    		"tags": ["faith"],
+    		"content": {
+    			"dateAdded": "2023-05-05T08:08:39-04:00",
+    			"duration": 40,
+    			"videos": [{
+    				"url": "https://player.vimeo.com/progressive_redirect/playback/824065226/rendition/1080p/file.mp4?loc=external&signature=3f76f054d24f68433e822eea957641f68e58da362e8642b31c6460baef7ab29a",
+    				"quality": "FHD",
+    				"videoType": "MP4",
+    				"bitrate": null
+    			}]
+    		}
+    	}, {
+    		"id": "achei824065185",
+    		"title": "Quanto ganha.a classe me\u0301dia americana",
+    		"shortDescription": "Um instituto de pesquisas descobriu quanto \u00e9 preciso ganhar para ser considerado de classe m\u00e9dia nos Estados Unidos.",
+    		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1665736752-095c9d2352d4d2ecdea683f0ca7ce2927f879ecbb974eeb62224770e41ede024-d_800x450",
+    		"releaseDate": "2023",
+    		"genres": ["faith"],
+    		"tags": ["faith"],
+    		"content": {
+    			"dateAdded": "2023-05-05T08:08:39-04:00",
+    			"duration": 75,
+    			"videos": [{
+    				"url": "https://player.vimeo.com/progressive_redirect/playback/824065185/rendition/1080p/file.mp4?loc=external&signature=66c35bc1858a736117b9a6be56f9f1bbd4e17d6e72f13183804c9fa19762725c",
+    				"quality": "FHD",
+    				"videoType": "MP4",
+    				"bitrate": null
+    			}]
+    		}
+    	}, {
+    		"id": "achei822032259",
+    		"title": "FBI alerta sobre perigo de recarregar celular em locais pu\u0301blicos",
+    		"shortDescription": "O FBI (Federal Bureau of Investigation) emitiu uma nota de alerta para evitar o uso de esta\u00e7\u00f5es p\u00fablicas de recarga de bateria para celulares e equipamentos eletr\u00f4nicos, populares em locais como aeroportos, hot\u00e9is e shoppings. Segundo as autoridades, hackers est\u00e3o usando essas esta\u00e7\u00f5es com sa\u00edda USB para fazer \u201cjuice jacking\u201d, t\u00e1tica de roubo cibern\u00e9tico que infecta dispositivos com softwares que d\u00e3o acesso a dados contidos em telefones, tablets ou computadores, incluindo senhas de banco e informa\u00e7\u00f5es confidenciais.",
+    		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1662584786-620bfd414644817ca0cb6bdca094039f2be04f596934b3f5a176f9742153a229-d_800x450",
+    		"releaseDate": "2023",
+    		"genres": ["faith"],
+    		"tags": ["faith"],
+    		"content": {
+    			"dateAdded": "2023-05-05T08:02:06-04:00",
+    			"duration": 60,
+    			"videos": [{
+    				"url": "https://player.vimeo.com/progressive_redirect/playback/822032259/rendition/1080p/file.mp4?loc=external&signature=d06d30feb43ab39c089401a5ba23223c5dbcecc92c171f10c223c983e2ac7925",
+    				"quality": "FHD",
+    				"videoType": "MP4",
+    				"bitrate": null
+    			}]
+    		}
+    	}, {
+    		"id": "achei822032306",
+    		"title": "Mulher e\u0301 sequestrada e estuprada ao fazer entrega em Tampa",
+    		"shortDescription": "Uma motorista do aplicativo DoorDash foi sequestrada e estuprada na Fl\u00f3rida enquanto tentava fazer uma entrega, declarou o Departamento de Pol\u00edcia de Tampa na \u00faltima quinta-feira (21).",
+    		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1662584703-2cc37a0bf912f9355018e8600eef717373ce352104896747c9cf24e5ed20a929-d_800x450",
+    		"releaseDate": "2023",
+    		"genres": ["faith"],
+    		"tags": ["faith"],
+    		"content": {
+    			"dateAdded": "2023-05-05T08:02:06-04:00",
+    			"duration": 57,
+    			"videos": [{
+    				"url": "https://player.vimeo.com/progressive_redirect/playback/822032306/rendition/1080p/file.mp4?loc=external&signature=3425b304ef8f4cfc20a9a281ff18dffbbd2abed534c175169ada719ef66a8b85",
+    				"quality": "FHD",
+    				"videoType": "MP4",
+    				"bitrate": null
+    			}]
+    		}
+    	}, {
+    		"id": "achei822032349",
+    		"title": "Avia\u0303o faz pouso de emerge\u0302ncia depois que motor engoliu um pa\u0301ssaro",
+    		"shortDescription": "Um avi\u00e3o da American Airlines precisou voltar para o aeroporto de Columbus (OH) na manh\u00e3 de domingo (23) depois que o motor direito engoliu um p\u00e1ssaro e pegou fogo. A aeronave, um Boeing 737, que tinha Phoenix (AZ) como destino, pousou com seguran\u00e7a e ningu\u00e9m se feriu. Um passageiro filmou o incidente.",
+    		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1662586108-95afd3b015c7493b2115e9488de931ddf1864a15621a8e87805ebd635d4875f5-d_800x450",
+    		"releaseDate": "2023",
+    		"genres": ["faith"],
+    		"tags": ["faith"],
+    		"content": {
+    			"dateAdded": "2023-05-05T08:02:06-04:00",
+    			"duration": 28,
+    			"videos": [{
+    				"url": "https://player.vimeo.com/progressive_redirect/playback/822032349/rendition/720p/file.mp4?loc=external&signature=77a8a5dc48911eb6d8462326b4b5d4ad89ac670bd7f7ea2828d539c1dd2bba60",
+    				"quality": "HD",
+    				"videoType": "MP4",
+    				"bitrate": null
+    			}]
+    		}
+    	},
+      {
+		"id": "achei829019402",
+		"title": "Maria do Carmo Fulfaro - Das pistas da Indy ao maior centro de artes performa\u0301ticas da Flo\u0301rida",
+		"shortDescription": "A editora do AcheiUSA, Tatiana Cesso, entrevista a diretora de marketing do Broward Center for the Performing Arts, Maria do Carmo Fulfaro, que conta sua trajet\u00f3ria desde os tempos de rep\u00f3rter esportiva at\u00e9 o seu papel no comando de um centro de artes que tem se destacado pela promo\u00e7\u00e3o da cultura brasileira nos Estados Unidos.",
+		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1673226587-d7b5b60f651cc4cdf12a128b99e9d315adf84e78f985406af96772533702e38f-d_800x450",
+		"releaseDate": "2023",
+		"genres": ["faith"],
+		"tags": ["faith"],
+		"content": {
+			"dateAdded": "2023-05-26T07:38:30-04:00",
+			"duration": 2431,
+			"videos": [{
+				"url": "https://player.vimeo.com/progressive_redirect/playback/829019402/rendition/1080p/file.mp4?loc=external&signature=655247a2dbe9bebf8447cf9eed8b708d0f0f86c5feb240ae99b8721922405df8",
+				"quality": "FHD",
+				"videoType": "MP4",
+				"bitrate": null
+			}]
+		}
+	},
+  {
+		"id": "achei831516179",
+		"title": "Brazil Expo Florida 2023",
+		"shortDescription": "A ag\u00eancia de comunica\u00e7\u00e3o EyeSea Solutions, em parceria com o Centro Comunit\u00e1rio Brasileiro, realizou nos dias 27 e 28 de maio a Brazil Expo Florida 2023, feira de neg\u00f3cios que reuniu v\u00e1rias empresas voltadas para o mercado consumidor brasileiro nos Estados Unidos",
+		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1676953635-5182e790ffe88ce486ebc0c4e390c518cee7fbb4a863683f927b33ee78265fd7-d_800x450",
+		"releaseDate": "2023",
+		"genres": ["news"],
+		"tags": ["news"],
+		"content": {
+			"dateAdded": "2023-05-31T07:52:05-04:00",
+			"duration": 449,
+			"videos": [{
+				"url": "https://player.vimeo.com/progressive_redirect/playback/831516179/rendition/1080p/file.mp4?loc=external&signature=5ee4a9690f3877ce1dd2f3b10a22e5130496774bf157fd2290b7c34c051f403e",
+				"quality": "FHD",
+				"videoType": "MP4",
+				"bitrate": null
+			}]
+		}
+	},
+  {
+		"id": "achei833697814",
+		"title": "Brasileira perde visto por causa de perfil no OnlyFans",
+		"shortDescription": "Tatiana Cesso entrevista Marcelo Fantin, Legal Coordinator da Toledo & Associates, sobre o caso da brasileira que teve seu visto de estudante cancelado pela Imigra\u00e7\u00e3o americana por causa de um perfil monetizado no portal OnlyFans.",
+		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1680233560-c06ef9f98607cb5f4717cebb0f239252a59ee8c0a762fb20cb40907fd6a7de73-d_800x450",
+		"releaseDate": "2023",
+		"genres": ["news"],
+		"tags": ["news"],
+		"content": {
+			"dateAdded": "2023-06-06T10:53:15-04:00",
+			"duration": 1310,
+			"videos": [{
+				"url": "https://player.vimeo.com/progressive_redirect/playback/833697814/rendition/720p/file.mp4?loc=external&signature=20fe7ce10287d4a928c1cc9f3620dca32aeba65b4a20caa91938f543306b7fd8",
+				"quality": "HD",
+				"videoType": "MP4",
+				"bitrate": null
+			}]
+		}
+	},
+  {
+		"id": "achei850168742",
+		"title": "Entrevista com o co\u0302nsul-geral do Brasil em Miami, embaixador Andre\u0301 Odenbreit",
+		"shortDescription": "Em entrevista \u00e0 editora do AcheiUSA, Tatiana Cesso, o embaixador Andr\u00e9 Odenbreit, c\u00f4nsul-geral do Brasil em Miami desde 2022, fala sobre a atua\u00e7\u00e3o do Consulado junto \u00e0 comunidade brasileira, seus projetos, desafios e melhorias. Comenta sobre a cria\u00e7\u00e3o do novo Consulado em Orlando, as caracter\u00edsticas socioecon\u00f4micas da comunidade e sua relev\u00e2ncia para a economia do estado da Fl\u00f3rida. Tamb\u00e9m explica as vantagens da Carteira Consular, documento emitido pelos consulados brasileiros nos Estados Unidos, que serve como identifica\u00e7\u00e3o alternativa. Fala ainda da sua experi\u00eancia como novo morador no pa\u00eds e a adapta\u00e7\u00e3o da fam\u00edlia \u00e0 cultura local. Finaliza com uma mensagem positiva, enfatizando que o Consulado est\u00e1 de portas abertas para atender os brasileiros e receber cr\u00edticas e sugest\u00f5es da comunidade. Assista.",
+		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1704484707-a0900ef766c7c2ec75c95031854ae33a9135fd8d3a0b86937de54cc65083a744-d_800x450",
+		"releaseDate": "2023",
+		"genres": ["faith"],
+		"tags": ["faith"],
+		"content": {
+			"dateAdded": "2023-07-31T10:10:53-04:00",
+			"duration": 1775,
+			"videos": [{
+				"url": "https:\/\/player.vimeo.com\/external\/850168742.m3u8?s=b8529ff7fd8a7d14336c3e976efc0c8e3e7fbd43",
+				"quality": "FHD",
+				"videoType": "HLS",
+				"bitrate": null
+			}]
+		}
+	},
+  {
+		"id": "achei857278029",
+		"title": "Viviane Spinelli conta tudo sobre o 27\u00b0 Inffinito Film Festival",
+		"shortDescription": "Tatiana Cesso entrevista Viviane Spinelli, s\u00f3cia-fundadora da Inffinito Foundation, que promove h\u00e1 27 anos o Brazilian Film Festival of Miami. Este ano, o Festival vem com for\u00e7a total, apresentando uma extensa programa\u00e7\u00e3o, de 8 a 16 de setembro, com show de abertura a cargo do rapper brasileiro Emicida.",
+		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1714333100-eadd4c0c9a18f36b51ba01ffdb46a42e9cf9e607aec7ade68600f1530c95063c-d_800x450",
+		"releaseDate": "2023",
+		"genres": [""],
+		"tags": [""],
+		"content": {
+			"dateAdded": "2023-08-23T16:04:28-04:00",
+			"duration": 1704,
+			"videos": [{
+				"url": "https:\/\/player.vimeo.com\/external\/857278029.m3u8?s=5d6843725b5beaf41ced42d6565db30f5765df57",
+				"quality": "HD",
+				"videoType": "HLS",
+				"bitrate": null
+			}]
+		}
+	},
+  {
+		"id": "achei859346187",
+		"title": "Leitor flagra queda de helico\u0301ptero",
+		"shortDescription": "Um helic\u00f3ptero de resgate do Corpo de Bombeiros (BSO Fire Rescue) do condado de Broward (FL) caiu na manh\u00e3 de segunda-feira (28), atingindo um pr\u00e9dio em Pompano Beach, confirmaram as autoridades locais. Informa\u00e7\u00f5es preliminares da Administra\u00e7\u00e3o Federal de Avia\u00e7\u00e3o disseram que uma aeronave transportando tr\u00eas pessoas colidiu com uma estrutura por volta das 8:45 am.",
+		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1717148134-a0a1c141530e49bf069f1f91d0fa240880435e7f7aae695e91839efc0eedc6aa-d_800x450",
+		"releaseDate": "2023",
+		"genres": [""],
+		"tags": [""],
+		"content": {
+			"dateAdded": "2023-08-30T09:19:44-04:00",
+			"duration": 30,
+			"videos": [{
+				"url": "https:\/\/player.vimeo.com\/external\/859346187.m3u8?s=037eb5b5593a9ff3f6f77740c54aebeeed436796",
+				"quality": "HD",
+				"videoType": "HLS",
+				"bitrate": null
+			}]
+		}
+	}, {
+		"id": "achei859346232",
+		"title": "Veterano do exe\u0301rcito americano denuncia o senador Marcos do Val",
+		"shortDescription": "Brasileiro veterano do ex\u00e9rcito americano que serviu em miss\u00f5es no Afeganist\u00e3o \u00e9 fundador do grupo Stolen Valor Brasil, criado para desmascarar indiv\u00edduos que se passam por autoridades militares ou policiais sem as credenciais necess\u00e1rias.",
+		"thumbnail": "https:\/\/i.vimeocdn.com\/video\/1717153955-0de1de9e85bb74395cb02c9441f1def03d3dc624a344937f057cdca06193d568-d_800x450",
+		"releaseDate": "2023",
+		"genres": [""],
+		"tags": [""],
+		"content": {
+			"dateAdded": "2023-08-30T09:19:44-04:00",
+			"duration": 2763,
+			"videos": [{
+				"url": "https:\/\/player.vimeo.com\/external\/859346232.m3u8?s=3c359bacb19947c18ba2b69de79a6020fe4ece3a",
+				"quality": "HD",
+				"videoType": "HLS",
+				"bitrate": null
+			}]
+		}
+	},
+  {
+            "id": "achei871442167",
+            "title": "Brazilian Voices - As Vozes Brasileiras que Ajudam a Curar",
+            "shortDescription": "Maria do Carmo Fulfaro entrevista Loren Oliveira e Beatriz Malnic, diretoras do grupo vocal Brazilian Voices, formado por mulheres da comunidade brasileira do sul da Fl\\u00f3rida, que vem se destacando pelo seu trabalho filantr\\u00f3pico ao levar m\\u00fasica e esperan\\u00e7a para os hospitais da regi\\u00e3o.",
+            "thumbnail": "https://img.youtube.com/vi/h6FxL41KqAA/maxresdefault.jpg",
+            "releaseDate": "2023",
+            "genres": [
+                ""
+            ],
+            "tags": [
+                ""
+            ],
+            "content": {
+                "dateAdded": "2023-10-05T09:02:17-04:00",
+                "duration": 2099,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/871442167.m3u8?s=875f6ca67936f5ad94982c6f889ac9ed34f529c3",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "achei893295463",
+            "title": "CBF Soccer School - A escola de futebol da CBF em Boca Raton",
+            "shortDescription": "Carlos Wesley entrevista Mario Alexander Cabral (diretor) e Thiago Novo (treinador), da CBF Soccer School, escola de futebol nos Estados Unidos que segue os padr\\u00f5es mundiais de ensino da Confedera\\u00e7\\u00e3o Brasileira de Futebol.",
+            "thumbnail": "https://i.vimeocdn.com/video/1766995286-e9f78b697e44735b47cce46e2c6e0818e945e42e25f69e9bd345a9ca74b45d72-d_800x450",
+            "releaseDate": "2023",
+            "genres": [
+                "special"
+            ],
+            "tags": [
+                "special"
+            ],
+            "content": {
+                "dateAdded": "2023-12-13T07:35:02-05:00",
+                "duration": 2409,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/893295463.m3u8?s=21cd80e62aa54766d7690ef97e977d4272d76650",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": "achei895810193",
+            "title": "Carlos Borges, um dos maiores incentivadores da cultura brasileira no exterior",
+            "shortDescription": "Carlos Wesley entrevista o jornalista e produtor cultural Carlos Borges, fundador da Focus Brasil Foundation, entidade propagadora da cultura brasileira pelo mundo.",
+            "thumbnail": "https://i.vimeocdn.com/video/1770727364-1f2183d00ef0bcfe646ecd77bdabc114833087173e2367ab38b3ddc63fc86b5b-d_800x450",
+            "releaseDate": "2023",
+            "genres": [
+                "news"
+            ],
+            "tags": [
+                "news"
+            ],
+            "content": {
+                "dateAdded": "2023-12-18T08:05:58-05:00",
+                "duration": 2598,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/895810193.m3u8?s=cb0b94425a435a1a02ed4aed29a00d6520ee7eb0",
+                        "quality": "FHD",
+                        "videoType": "HLS",
+                        "bitrate": null
+                    }
+                ]
+            }
+        }
+  ],
+  "playlists": [
+    {
+      "name": "achei01",
+      "itemIds": [
+        "b001",
+        "b002",
+        "b003",
+        "b004",
+        "b005",
+        "b006",
+        "b007",
+        "b008",
+        "b009",
+        "b010",
+        "b011",
+        "b012",
+        "b013",
+        "b014",
+        "b015",
+        "b016",
+        "b017",
+        "b018",
+        "c001",
+        "c002",
+        "c003",
+        "c004",
+        "c005",
+        "c006",
+        "c007",
+        "c008",
+        "c009",
+        "c010",
+        "c011",
+        "c012",
+        "c013",
+        "c014",
+        "c015",
+        "c016",
+        "c017",
+        "c018",
+        "c019",
+        "c020",
+        "c021",
+        "c022"
+      ]
+    },
+    {
+      "name": "achei02",
+      "itemIds": [
+        "achei895810193",
+        "achei893295463",
+        "achei871442167",
+        "achei859346187",
+        "achei859346232",
+        "achei857278029",
+        "achei850168742",
+        "achei833697814",
+        "achei831516179",
+        "achei829019402",
+        "achei824065808",
+        "achei824065226",
+        "achei824065185",
+        "achei822032259",
+        "achei822032306",
+        "achei822032349",
+        "820483897",
+        "820483925",
+        "820483954",
+        "820483979",
+        "820484005",
+        "820495962",
+        "820484040",
+        "820493389",
+        "c058",
+        "c057",
+				"c056",
+        "c055",
+        "c054",
+        "c053",
+        "c052",
+        "c051",
+        "c050",
+        "c049",
+        "c048",
+        "c047",
+        "c046",
+        "c045",
+        "c044",
+        "c043",
+        "c042",
+        "c041",
+        "c040",
+        "c039",
+        "c038",
+        "c037",
+        "c036",
+        "c035",
+        "c034",
+        "c033",
+        "c032",
+        "c031",
+        "c030",
+        "c029",
+        "c028",
+        "c027",
+        "c026",
+        "c025",
+        "c024",
+        "c023"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "AcheiUSA Newspaper - Parte 02",
+      "playlistName": "achei02",
+      "order": "manual"
+    },
+    {
+      "name": "AcheiUSA Newspaper - Parte 01",
+      "playlistName": "achei01",
+      "order": "manual"
+    }
+  ]
+}
