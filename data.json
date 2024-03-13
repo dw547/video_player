@@ -21,7 +21,7 @@
         "videos": [
           {
             "url": "http://ads.ctvads.net/videos/Otherside%20Picnic%20-%20S01E01%20-%20Wiggle-Waggle%20Hunting.mkv",
-            "quality": "HD",
+            "quality": "FHD",
             "videoType": "MKV",
             "bitrate": 1275129
           }
@@ -30,9 +30,9 @@
     },
     {
       "id": "b002",
-      "title": "Pão de queijo Forno de Minas",
-      "shortDescription": "Pão de queijo Forno de Minas",
-      "thumbnail": "https://i.vimeocdn.com/video/808459718-b95e95991c4b796a3f0f7e7b830a01499c0c29cdef18f78d7fd303a4cb4e5561-d_800x450.png",
+      "title": "S01E02",
+      "shortDescription": "Surviving Lady Hasshaku",
+      "thumbnail": "https://ads.ctvads.net/videos/thumbnails/urasekai-picnic-otherside-picnic-s01e02.png",
       "releaseDate": "2019-08-23T15:43:34-04:00",
       "genres": [
         "sci-fi"
@@ -45,9 +45,9 @@
         "duration": 30,
         "videos": [
           {
-            "url": "https://player.vimeo.com/external/355617621.hd.mp4?s=06d5b9de07c497f9017e99f0b7623347099235cb&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4",
+            "url": "https://ads.ctvads.net/videos/Otherside Picnic - S01E02 - Surviving Lady Hasshaku.mkv",
+            "quality": "FHD",
+            "videoType": "MKV",
             "bitrate": 2041772
           }
         ]
