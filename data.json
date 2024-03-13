@@ -6,11 +6,11 @@
     {
       "id": "b001",
       "title": "S01E01",
-      "shortDescription": "Encontrado carro de brasileira desaparecida em Danbury",
+      "shortDescription": "Urasekai Picnic. Otherside Picnic.",
       "thumbnail": "https://ads.ctvads.net/videos/thumbnails/urasekai-picnic-otherside-picnic-episode-12-english-subbed-390x220.jpg",
       "releaseDate": "2019-08-23T15:42:59-04:00",
       "genres": [
-        "special"
+        "sci-fi"
       ],
       "tags": [
         "special"
@@ -35,7 +35,7 @@
       "thumbnail": "https://i.vimeocdn.com/video/808459718-b95e95991c4b796a3f0f7e7b830a01499c0c29cdef18f78d7fd303a4cb4e5561-d_800x450.png",
       "releaseDate": "2019-08-23T15:43:34-04:00",
       "genres": [
-        "special"
+        "sci-fi"
       ],
       "tags": [
         "special"
@@ -60,7 +60,7 @@
       "thumbnail": "https://i.vimeocdn.com/video/808460318-9b5582a5cd8fbc91aa7ef45a215c571ccb4984c695ad87b3f645f1c579f31896-d_800x450.png",
       "releaseDate": "2019-08-23T15:43:55-04:00",
       "genres": [
-        "special"
+        "sci-fi"
       ],
       "tags": [
         "special"
@@ -85,7 +85,7 @@
       "thumbnail": "https://i.vimeocdn.com/video/808460472-ca7da7c15eb822286e45aefbbe9330fac18e822e2addfbcb1066c990f2d67007-d_800x450.png",
       "releaseDate": "2019-08-23T15:46:29-04:00",
       "genres": [
-        "special"
+        "sci-fi"
       ],
       "tags": [
         "special"
@@ -110,7 +110,7 @@
       "thumbnail": "https://i.vimeocdn.com/video/808460536-c9fbcb4adb4baf25abcbe1544a59dda26b2b694a88d9f3495cf7b86bd9d3e10f-d_800x450.png",
       "releaseDate": "2019-08-23T15:47:09-04:00",
       "genres": [
-        "special"
+        "sci-fi"
       ],
       "tags": [
         "special"
@@ -135,7 +135,7 @@
       "thumbnail": "https://i.vimeocdn.com/video/808460572-e6d372f499dca6b209bf23f9bef3d18b48dddc1902c077af69167febe464d501-d_800x450.png",
       "releaseDate": "2019-08-23T15:47:26-04:00",
       "genres": [
-        "special"
+        "sci-fi"
       ],
       "tags": [
         "special"
@@ -2456,7 +2456,7 @@
       "order": "manual"
     },
     {
-      "name": "AcheiUSA Newspaper - Parte 01",
+      "name": "Urasekai picnic (otherside picnic) - Season 01",
       "playlistName": "achei01",
       "order": "manual"
     }
